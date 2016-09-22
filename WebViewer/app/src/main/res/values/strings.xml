@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebViewer</string>
+    <string name="greeting">What site do you want to visit?</string>
+    <string name="webSite1">HACKADAY</string>
+    <string name="webSite2">DuckDuckGo</string>
+    <string name="button1">Go!</string>
+    <string name="button2">Go!</string>
+</resources>
